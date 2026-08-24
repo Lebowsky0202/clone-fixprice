@@ -3,7 +3,9 @@
 }
 .btn {
 	background-color: #91c30f;
-	border-radius: 10%;
+	border-radius: 10rem;
+	border: none;
+	cursor: pointer;
 }
 .btn img {
 	width: 137;
