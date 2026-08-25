@@ -13,3 +13,11 @@
 	rx: 23.1301;
 	fill: rgb(145, 195, 15);
 }
+.catalog {
+	border-radius: 0.6rem;
+	padding: 1.1rem 1.2rem;
+	-webkit-text-decoration: none;
+	text-decoration: none;
+	transition: background-color 0.3s;
+	border: none;
+}

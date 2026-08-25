@@ -3,7 +3,7 @@ import cls from './Header.module.css'
 
 const Header = () => {
 	return (
-		<div className={cls.header}>
+		<div className={`${cls.header} container`}>
 			<HeaderTop />
 		</div>
 	)
