@@ -20,4 +20,13 @@
 	text-decoration: none;
 	transition: background-color 0.3s;
 	border: none;
+	color: #2f2f2f;
+	font-size: 1rem;
+	font-weight: 500;
+	margin-left: 0.7rem;
+	background: none;
+}
+.catalog:hover {
+	background-color: #197ffd;
+	color: #fff;
 }
