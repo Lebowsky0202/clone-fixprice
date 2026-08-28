@@ -9,11 +9,11 @@ const HeaderTop = () => {
 				<img src={logo} alt='logo' />
 			</button>
 			<button className={cls.catalog}>☰ Каталог </button>
-			<form>
-				{' '}
+			<form className={cls.search}>
 				<a href='#'>
 					<img src={search} alt='search' />
 				</a>
+				<input type='text' placeholder='Начните поиск товара' />
 			</form>
 		</div>
 	)

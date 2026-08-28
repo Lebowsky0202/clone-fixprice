@@ -30,3 +30,28 @@
 	background-color: #197ffd;
 	color: #fff;
 }
+.search {
+	background: #f4f4f4;
+	border: none;
+	border-radius: 0.4rem;
+	color: #828282;
+	font-weight: 500;
+	height: 100%;
+	outline: none;
+	display: flex;
+	padding: 15px 0;
+	width: 575px;
+}
+.search a {
+	padding: 0 15px;
+}
+.search img {
+	width: 21px;
+}
+.search input {
+	background: none;
+	border: none;
+	outline: none;
+	color: #000;
+	width: 500px;
+}
