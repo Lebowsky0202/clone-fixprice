@@ -15,6 +15,10 @@ const HeaderTop = () => {
 				</a>
 				<input type='text' placeholder='Начните поиск товара' />
 			</form>
+			<div className={cls.auth}>
+				<a href='#'>Войти</a>
+				<a href='#'>Карта Fix Price</a>
+			</div>
 		</div>
 	)
 }
